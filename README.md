@@ -1,8 +1,8 @@
-
-
-
-
 # Black–Scholes Option Pricing with Interactive 3D Visualizations
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Axmed0/black-scholes-model/blob/main/blackscholescode.ipynb)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Axmed0/black-scholes-model/main?filepath=blackscholescode.ipynb)
+[![nbviewer](https://img.shields.io/badge/render-nbviewer-orange.svg)](https://nbviewer.org/github/Axmed0/black-scholes-model/blob/main/blackscholescode.ipynb)
 
 A Python implementation of Black–Scholes pricing for European options with full Greeks calculation and interactive 3D surface plots using Plotly.
 
